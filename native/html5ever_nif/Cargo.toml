@@ -12,7 +12,7 @@ crate-type = ["dylib"]
 [dependencies]
 rustler = { git = "https://github.com/rusterlium/rustler", rev = "4fad1fc9e55ad38155e5307f74627403f3cfc52f" }
 
-html5ever = "0.25"
+html5ever = "0.26"
 markup5ever = "0.10"
 
 tendril = "0.4"
